@@ -26,6 +26,7 @@ h1 {
   font-size: 0.8rem;
   margin: 0.5rem;
   color: rgb(131, 127, 122);
+  font-weight: 600;
 }
 
 #btnX {
@@ -78,7 +79,7 @@ ul li {
   padding: 1rem 2rem;
 }
 
-.todoDone {
+.completed {
   text-decoration: line-through;
   user-select: none;
 }
